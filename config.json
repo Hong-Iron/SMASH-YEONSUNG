@@ -1,0 +1,66 @@
+{
+  "code": "YEONSUNG",
+  "title": "SMASH YEONSUNG",
+  "school": "연성대",
+  "fullName": "연성대학교",
+  "campusName": "연성대학교",
+  "tagline": "연성대를 부셔 (시험기간 스트레스 해소)",
+  "description": "연성대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 연성대학교 3D 화면과 SMASH YEONSUNG 제목",
+  "url": "https://hong-iron.github.io/SMASH-YEONSUNG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 380184673
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.3964905,
+        126.9082981
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 잔디밭 옆 이름 없는 1층 기록인데, 확대한 사진에는 지붕도 그림자도 없이 맨땅과 풀만 보인다."
+    },
+    {
+      "at": [
+        37.3974983,
+        126.9081004
+      ],
+      "n": "4동(식품과학관)",
+      "why": "항공사진에 없음 — '4동(식품과학관)' 기록이 캠퍼스 경계 밖 숲 한가운데에 그려져 있고 사진에는 나무만 있으며, 실제 4동은 12번 건물이다."
+    },
+    {
+      "at": [
+        37.3982181,
+        126.9106276
+      ],
+      "n": "11동(국제학사)",
+      "why": "항공사진에 없음 — '11동(국제학사)' 기록 자리가 캠퍼스 경계 밖이고, 사진에는 건물 없이 공사 중인 맨땅과 파란 덮개만 있다."
+    },
+    {
+      "at": [
+        37.3983417,
+        126.9098088
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 1985년 단독주택 기록인데 그 자리는 지금 학교 건물 옆 도로이고, 작은 집은 보이지 않는다."
+    },
+    {
+      "at": [
+        37.3982688,
+        126.9089139
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 밖 1984년 단독주택 기록이고, 사진에는 숲 가장자리와 길만 있다."
+    }
+  ]
+}
